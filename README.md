@@ -144,7 +144,7 @@ Example outputs:
 - **Headless differences**: Some sites render differently headless. If content is missing, try the non-headless script.
 - **Input format**: The preprocessor expects TXT files produced by these scraper scripts. Using other formats may fail to parse.
 
-### License
-No license specified. Add one if you plan to distribute.
+
+
 
  
